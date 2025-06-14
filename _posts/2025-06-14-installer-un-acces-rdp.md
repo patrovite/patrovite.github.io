@@ -8,7 +8,7 @@ tags: [linux, rdp, debian]
 
 # Installer un accès RDP sur une machine linux
 
-Sur une machine Debian ou dérivée. Il faut installer le service "xrdp" avec les commandes suivantes :
+Sur une machine Debian ou dérivée. Il faut installer le service "xrdp" avec les commandes suivantes:
 
 ```bash
 sudo apt-get -y install xrdp
