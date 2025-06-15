@@ -8,7 +8,7 @@ tags: [git]
 
 Si vous mettez à jour votre .gitignore et que ces modifications ne sont pas prise en compte alors il faut exécuter les commandes suivantes :
 
-En premier on supprime le contenu de l'index.
+En premier, on supprime le contenu de l'index.
 ```bash
 git rm -r --cached .
 ```
