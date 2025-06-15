@@ -11,7 +11,10 @@ Si vous mettez à jour votre .gitignore et que ces modifications ne sont pas pri
 ```bash
 git rm -r --cached .
 ```
-(!) Ne pas oublier le point final !
+> Ne pas oublier le point final.
+{: .prompt-warning }
+
+
 On supprime les fichiers de l'index.
 
 ```bash
