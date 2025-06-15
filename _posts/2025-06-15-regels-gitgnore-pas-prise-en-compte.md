@@ -2,7 +2,7 @@
 layout: post
 title:  "Git - Régles .gitignore pas prise en compte"
 date:   2025-06-15 11:00:00 +0200
-categories: [git]
+categories: [informatique,git]
 tags: [git]
 ---
 
