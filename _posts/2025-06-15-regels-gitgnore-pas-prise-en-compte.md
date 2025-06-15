@@ -8,6 +8,7 @@ tags: [git]
 
 Si vous mettez à jour votre .gitignore et que ces modifications ne sont pas prise en compte alors il faut exécuter les commandes suivantes :
 
+En premier on supprime le contenu de l'index.
 ```bash
 git rm -r --cached .
 ```
@@ -15,14 +16,12 @@ git rm -r --cached .
 {: .prompt-warning }
 
 
-On supprime les fichiers de l'index.
-
+On ajoute tous les fichiers dans l'index (en prenant en compte les règles de .gitgnore).
 ```bash
 git add .
 ```
-On ajoute tous les fichiers dans l'index (en prenant en compte les règles de .gitgnore).
 
+Un petit commit pour prendre en compte ces modifications.
 ```bash
 git commit -m "prise en compte gitignore"
 ```
-Un petit commit pour prendre en compte ces modifications.
