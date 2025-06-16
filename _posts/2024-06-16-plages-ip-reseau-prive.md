@@ -15,6 +15,6 @@ Certaines plages d’adresses IP sont réservées pour une utilisation locale. A
 | 192.168.0.0/16 | 192.168.0.0 – 192.168.255.255  | 2<sup>32-16</sup> = 65 536 |
 
 
-Source : https://fr.wikipedia.org/wiki/Réseau_privé
-https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9
+Source : [Wikipédia](https://fr.wikipedia.org/wiki/Réseau_privé)
+
 
