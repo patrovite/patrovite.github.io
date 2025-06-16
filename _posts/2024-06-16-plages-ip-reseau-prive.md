@@ -2,8 +2,8 @@
 layout: post
 title:  "Plages d'adresses IP dans un réseau privé"
 date:   2025-06-16 18:00:00 +0200
-categories: [informatique,réseau]
-tags: [réseau]
+categories: [informatique,reseau]
+tags: [reseau]
 ---
 
 Certaines plages d’adresses IP sont réservées pour une utilisation locale. Ainsi, pour configurer un réseau local quand on n’a pas de plage d’adresses publiques à disposition, on doit utiliser ces plages d’adresses privées. Vous pouvez les utiliser comme bon vous semble.
