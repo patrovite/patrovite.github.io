@@ -10,9 +10,11 @@ Certaines plages d’adresses IP sont réservées pour une utilisation locale. A
 
 | Préfixe | Plage IP |  Nombre d'adresses |
 |---------|----------|------------|
-| 10.0.0.0/8 | 10.0.0.0 – 10.255.255.255 | 232<sup>8</sup> = 16 777 216 |
-| 172.16.0.0/12 | 172.16.0.0 – 172.31.255.255 | 232<sup>12</sup> = 1 048 576 |
-| 192.168.0.0/16 | 192.168.0.0 – 192.168.255.255  | 232<sup>16</sup> = 65 536 |
+| 10.0.0.0/8 | 10.0.0.0 – 10.255.255.255 | 2<sup>32-8</sup> = 16 777 216 |
+| 172.16.0.0/12 | 172.16.0.0 – 172.31.255.255 | 2<sup>32-12</sup> = 1 048 576 |
+| 192.168.0.0/16 | 192.168.0.0 – 192.168.255.255  | 2<sup>32-16</sup> = 65 536 |
 
 
-Source : https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9
+Source : https://fr.wikipedia.org/wiki/Réseau_privé
+https://fr.wikipedia.org/wiki/R%C3%A9seau_priv%C3%A9
+
